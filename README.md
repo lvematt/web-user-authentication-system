@@ -16,4 +16,4 @@ open another shell,
 run npm install
 run npm start or nodemon(if you want to change and debug)
 
-open the browser, typle localhost:8000
+open the browser, type localhost:8000
